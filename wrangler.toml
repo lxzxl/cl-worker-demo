@@ -1,0 +1,6 @@
+name = "pdf-generator-1"
+type = "webpack"
+account_id = "7ccf0ea0cdb09e7d96017fd52bcce45b"
+workers_dev = true
+route = ""
+zone_id = ""
